@@ -118,6 +118,7 @@ client.setCACert(ca_cert);
   ESP.deepSleep(5e6);
 }
 
+
 void loop() {
   // Not needed anymore, the function is kept so Platformio does not complain.
 }
